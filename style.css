@@ -1,0 +1,7 @@
+h1 {
+    color: orangered;
+    margin: 20px 0px 10px;
+    border: 1px dotted blue;
+    display: inline-block;
+    padding: 5px;
+}
